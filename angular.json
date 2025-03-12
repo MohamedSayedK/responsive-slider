@@ -49,6 +49,10 @@
                 }
               ],
               "outputHashing": "all"
+              
+            },
+            "github-pages":{
+              "baseHref": "/responsive-slider"
             },
             "development": {
               "buildOptimizer": false,
