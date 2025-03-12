@@ -29,8 +29,8 @@ export class AppComponent {
       locationAr: 'اسكتلندا',
       description: 'A beautiful island known for its dramatic landscapes, from mountains and valleys to lakes and shores.',
       descriptionAr: 'جزيرة خلابة تشتهر بالمناظر الطبيعية الدرامية، من الجبال والوديان إلى البحيرات والشواطئ. توفر تجربة استثنائية لمحبي المغامرات والمشي في الطبيعة.',
-      image: '/assets/images/1.png',
-      thumbnail: '/assets/images/1.png'
+      image: 'assets/images/1.png',
+      thumbnail: 'assets/images/1.png'
     },
     {
       id: 2,
@@ -40,8 +40,8 @@ export class AppComponent {
       locationAr: 'البرازيل',
       description: 'The largest tropical rainforest in the world, home to millions of species of plants and animals.',
       descriptionAr: 'أكبر غابة استوائية في العالم، موطن لملايين الأنواع من النباتات والحيوانات. تعتبر رئة الأرض وتوفر تجربة فريدة للمستكشفين.',
-      image: '/assets/images/2.png',
-      thumbnail: '/assets/images/2.png'
+      image: 'assets/images/2.png',
+      thumbnail: 'assets/images/2.png'
     },
     {
       id: 3,
@@ -51,8 +51,8 @@ export class AppComponent {
       locationAr: 'الأردن',
       description: 'A desert valley known for its red sand, monolithic rock formations, and ancient history.',
       descriptionAr: 'وادي صحراوي يشتهر برماله الحمراء وتكويناته الصخرية الضخمة وتاريخه القديم. يوفر تجربة فريدة للمغامرين ومحبي الطبيعة.',
-      image: '/assets/images/3.png',
-      thumbnail: '/assets/images/3.png'
+      image: 'assets/images/3.png',
+      thumbnail: 'assets/images/3.png'
     },
     {
       id: 4,
@@ -62,8 +62,8 @@ export class AppComponent {
       locationAr: 'سويسرا',
       description: 'One of the highest peaks in the Alps, known for its distinctive pyramid shape.',
       descriptionAr: 'أحد أعلى قمم جبال الألب، يشتهر بشكله الهرمي المميز. وجهة مثالية لمتسلقي الجبال ومحبي المناظر الطبيعية الخلابة.',
-      image: '/assets/images/4.png',
-      thumbnail: '/assets/images/4.png'
+      image: 'assets/images/4.png',
+      thumbnail: 'assets/images/4.png'
     },
     {
       id: 5,
@@ -73,8 +73,8 @@ export class AppComponent {
       locationAr: 'الأرجنتين/البرازيل',
       description: 'A system of 275 waterfalls at the border of Argentina and Brazil, one of the most spectacular in the world.',
       descriptionAr: 'نظام من 275 شلالًا على حدود الأرجنتين والبرازيل، من أكثر الشلالات إثارة للإعجاب في العالم. منظر طبيعي مذهل يجذب السياح من جميع أنحاء العالم.',
-      image: '/assets/images/5.png',
-      thumbnail: '/assets/images/5.png'
+      image: 'assets/images/5.png',
+      thumbnail: 'assets/images/5.png'
     }
   ];
   
