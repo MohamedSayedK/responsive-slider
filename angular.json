@@ -52,7 +52,7 @@
               
             },
             "github-pages":{
-              "baseHref": "/responsive-slider"
+              "baseHref": "/responsive-slider/"
             },
             "development": {
               "buildOptimizer": false,
